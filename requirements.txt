@@ -1,0 +1,6 @@
+boto3~=1.34.53
+awswrangler~=3.6.0
+pyyaml~=6.0.1
+pandas~=2.2.1
+botocore~=1.34.53
+Nasdaq-Data-Link~=1.0.4
